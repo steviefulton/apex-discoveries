@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use discoveries from this repository, please cite it as below."
+authors:
+  - family-names: "Fulton"
+    given-names: "Steven Charles"
+    city: "Amsterdam"
+    country: "NL"
+title: "APEX Orchestrator Discovery Repository"
+version: "1.0.0"
+date-released: "2026-04-20"
+license: "BSL-1.1"
+type: "dataset"
