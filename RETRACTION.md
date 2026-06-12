@@ -19,3 +19,20 @@ genuine external evidence can be published going forward; at present that
 set is empty, which is the honest state.
 
 — Steven Charles Fulton / APEX Orchestrator, 2026-06-11.
+
+## Retraction notice â€” `symbolic_regression` experiment results (2026-06-12)
+
+The same data-quality finding that withdrew the equation "discoveries"
+(2026-06-11) applies to the `symbolic_regression` experiments published here
+under `experiments/`. These experiments fit equations to APEX-internal data
+points that the review established were **not grounded in verified external
+measurements** â€” they are curve-fits to extractor artifacts or synthetic seed
+fixtures. A number recovered only the trivial identity (`y = x`, rÂ²=1.0);
+others returned plausible-looking forms with no grounded basis. They are
+withdrawn and should not be cited or relied upon.
+
+The publishing pipeline has since been gated so that `symbolic_regression`
+results can be published only when backed by a grounded equation; at present
+that set is empty, which is the honest state.
+
+â€” Steven Charles Fulton / APEX Orchestrator, 2026-06-12.
