@@ -36,3 +36,20 @@ results can be published only when backed by a grounded equation; at present
 that set is empty, which is the honest state.
 
 — Steven Charles Fulton / APEX Orchestrator, 2026-06-12.
+
+
+## Retraction notice — over-pairing "discovery" artifacts (2026-07-02)
+
+A wiring audit on 2026-07-02 established that discoveries quarantined by the
+2026-06-19 over-pairing defect review (`status = 'quarantined_overpairing'`)
+were nonetheless promoted to this public repository by the embargo *release*
+path, which — unlike the insert path — had no quarantine check. 114 such
+"discovery" files are withdrawn.
+
+These were flagged internally as over-pairing artifacts (compatible reasoning
+chains mis-joined into pseudo-contradictions); they are **not** validated
+divergence findings and should not be cited or relied upon. The release path is
+now gated by `APEX_PUBLISH_NOVELTY_GATE` so only novelty-verified, non-
+quarantined discoveries reach this repository going forward.
+
+— Steven Charles Fulton / APEX Orchestrator, 2026-07-02.
