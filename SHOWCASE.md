@@ -1,5 +1,7 @@
 # APEX — Confirmed Findings Showcase
 
+![APEX live status](status.svg)
+
 Curated results from an autonomous research system operating under an adversarial
 verification regime: replication on external evidence only (the system's own outputs are
 excluded from its evidence), strong support required from two independent adjudicator
