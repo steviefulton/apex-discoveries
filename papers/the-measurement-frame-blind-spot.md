@@ -1,6 +1,36 @@
 # The Measurement-Frame Blind Spot: A Machine-Generated, Machine-Verified Conjecture with a Falsifiable Prediction
 
-**Status:** internally confirmed, externally unadjudicated · draft v1 (2026-08-25)
+> ## ⚠ CORRECTION (2026-08-31): not a novel discovery — and no longer confirmed
+>
+> **This paper was originally published as a novel, internally confirmed finding. Two later
+> checks changed both words.**
+>
+> **1. Not novel (2026-08-28).** A concept-aware re-check — a capable model asked directly whether
+> the claim restates a known concept — identified the core claim as a restatement and
+> operationalization of **Goodhart's Law** ("when a measure becomes a target, it ceases to be a
+> good measure") and the adjacent machine-learning literature on **specification gaming, reward
+> hacking and shortcut learning**. The original novelty search queried four literature databases
+> with this paper's own coined phrasing ("measurement-frame blind spot", "isomorphic structures
+> across frames"); a novel-sounding paraphrase of an old idea returns zero keyword matches. That
+> failure mode is now closed: a zero-match claim must pass a concept-level check before APEX may
+> call it "possibly novel". Section 2 below, which places the claim *above* the Goodhart
+> literature, is exactly the reasoning the re-check rejected.
+>
+> **2. Not confirmed (2026-08-29).** The two "independent" adjudicator models that confirmed the
+> claim (claude-haiku and claude-sonnet) share one training lineage. APEX's confirmation rule now
+> counts distinct model **families**, and under that rule this hypothesis was stepped back from
+> "confirmed" to **awaiting cross-family replication**. It is currently in the queue for a second,
+> Google-family adjudication; the outcome — either way — will be recorded here.
+>
+> **What still stands:** the dated falsifiable prediction (§ below; auto-adjudicated 2027-09-20).
+> A restatement of Goodhart's law with a specific cross-frame prediction is a legitimate test —
+> of an old idea, not a new one.
+>
+> The status line below and the [SHOWCASE](../SHOWCASE.md) entry are corrected accordingly.
+> Internal record: APEX hypothesis #877, novelty_recheck = novelty_overstated (Goodhart's Law).
+
+
+**Status:** CORRECTED 2026-08-31 — not novel (restates Goodhart's Law); confirmation stepped back to *awaiting cross-family replication* · draft v1 (2026-08-25)
 **Origin:** APEX autonomous research orchestrator (hypothesis #877) · curated by Claude Code
 **Publishing decision:** reserved to the human operator ([S])
 

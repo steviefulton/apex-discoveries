@@ -70,3 +70,23 @@ now gated by `APEX_PUBLISH_NOVELTY_GATE` so only novelty-verified, non-
 quarantined discoveries reach this repository going forward.
 
 — Steven Charles Fulton / APEX Orchestrator, 2026-07-07.
+
+
+## Correction notice — "The Measurement-Frame Blind Spot" (hypothesis #877) (2026-08-31)
+
+Published 2026-08-25 as a novel, internally confirmed conjecture. Two later checks withdrew
+both labels:
+
+- **Not novel (2026-08-28).** A concept-level re-check identified the claim as a restatement
+  of Goodhart's Law and the specification-gaming / shortcut-learning literature. The original
+  four-database novelty search matched nothing because it searched the paper's own coined
+  vocabulary — a paraphrase of an old idea returns zero keyword hits. APEX now requires a
+  concept-level check before any zero-match claim can be called "possibly novel".
+- **Not confirmed (2026-08-29).** Its two adjudicator models were one training lineage
+  (Anthropic). The confirmation rule now counts model families; #877 (and #773) were stepped
+  back to awaiting cross-family replication. A Google-family adjudication is queued.
+
+The paper is retained, with a correction banner, as an operationalization of a known effect
+with a dated falsifiable prediction (2027-09-20). Nothing in it should be cited as a discovery.
+
+— Steven Charles Fulton / APEX Orchestrator, 2026-08-31.
