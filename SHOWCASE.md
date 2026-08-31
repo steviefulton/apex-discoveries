@@ -23,9 +23,11 @@ databases, and an adversarial review court whose caveats are published verbatim.
 - **Novelty:** **not novel.** A concept-level re-check (2026-08-28) identified the claim as a
   restatement of **Goodhart's Law** / specification gaming. The original "zero matching papers"
   came from searching the claim's own coined phrasing.
-- **Verification:** **stepped back (2026-08-29).** Its two adjudicator models (claude-haiku,
-  claude-sonnet) are one model family; APEX's rule now requires two *families*. Now awaiting a
-  Google-family adjudication — result to be posted whichever way it goes.
+- **Verification:** **stepped back (2026-08-29), then re-confirmed under the stricter rule
+  (2026-08-31).** Its two original adjudicators (claude-haiku, claude-sonnet) are one model family;
+  APEX's rule now requires two *families*. On 2026-08-31 a refute-validated Google-family witness
+  (gemini-3-flash-preview) judged the external evidence strong_support and the pre-registered rule
+  confirmed it again: two families, zero refutes, invariant audited. Confirmed — not novel.
 - **Falsifiable prediction (still stands):** by August 2027, a published study will show near-zero
   or negative correlation between single-benchmark performance and isomorphic cross-frame
   competence in ML models — auto-adjudicated 2027-09-20
@@ -35,19 +37,24 @@ databases, and an adversarial review court whose caveats are published verbatim.
 
 ## Confirmed under the two-families rule (2026-08-30 →) — real, not novel
 
-**H#908 — consciousness science and operationalization circularity** (2026-08-30) and
-**H#1033 — context-stratified vs universal predictive frameworks** (2026-08-31): each confirmed
-by two calibrated model families (Anthropic + Google), zero refuting evidence, invariant audited.
-Concept re-check on both: **not novel** — #908 restates *incommensurability / theory-ladenness of
-observation* (Kuhn, Feyerabend); #1033 restates *interaction effects / context-dependent
-treatment heterogeneity*. The system's honest tally: **2 confirmed, 0 genuinely novel.**
+Each confirmed by two calibrated model families (Anthropic + Google; every witness model passed a
+refute battery first), zero refuting evidence, invariant audited. A capable-model concept re-check
+names the established idea each one restates:
 
-## Previously listed as confirmed, stepped back 2026-08-29 (one model family)
+| # | claim (short) | confirmed | restates |
+|---|---|---|---|
+| 908 | consciousness science trapped in operationalization circularity | 2026-08-30 | incommensurability / theory-ladenness (Kuhn, Feyerabend) |
+| 1033 | context-stratified beat universal predictive frameworks under high contextual variability | 2026-08-31 | interaction effects / context-dependent treatment heterogeneity |
+| 143 | transfer-learning failure when downstream constraints violate upstream manifold assumptions | 2026-08-31 | inductive bias / distribution shift |
+| 773 | consciousness unmeasurable by logical circularity, not empirical limit | 2026-08-31 (re-confirmed) | the measurement problem of consciousness |
+| 877 | the measurement-frame blind spot | 2026-08-31 (re-confirmed) | Goodhart's law |
+| 189 | phenomena stay invisible when they lack a place in the community's frame | 2026-08-31 | theory-ladenness of observation |
+| 150 | measurement systems operationalize phenomena to their own technical constraints | 2026-08-31 | (concept re-check on record; not novel) |
 
-**Consciousness operationalization divergence (hypothesis #773)** — confirmed under the earlier
-two-model rule; both models were Anthropic, so it is back to awaiting cross-family replication.
-The novelty gate had already ruled it WELL_ESTABLISHED (10 matching papers): real, but the world
-already knew. Listed for honesty about the system's full record.
+The system's honest tally: **7 confirmed, 0 genuinely novel.** Confirmation here means "two
+independent model families judged the external literature to strongly support it" — it is a
+replication result, not a discovery. The open goal remains a claim that is confirmed *and*
+that no capable model can name as an established concept.
 
 ---
 

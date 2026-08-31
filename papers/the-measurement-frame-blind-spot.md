@@ -16,11 +16,15 @@
 > call it "possibly novel". Section 2 below, which places the claim *above* the Goodhart
 > literature, is exactly the reasoning the re-check rejected.
 >
-> **2. Not confirmed (2026-08-29).** The two "independent" adjudicator models that confirmed the
-> claim (claude-haiku and claude-sonnet) share one training lineage. APEX's confirmation rule now
-> counts distinct model **families**, and under that rule this hypothesis was stepped back from
-> "confirmed" to **awaiting cross-family replication**. It is currently in the queue for a second,
-> Google-family adjudication; the outcome — either way — will be recorded here.
+> **2. Not confirmed (2026-08-29) → re-confirmed under the stricter rule (2026-08-31 07:20Z).** The
+> two "independent" adjudicator models that first confirmed the claim (claude-haiku and
+> claude-sonnet) share one training lineage. APEX's confirmation rule now counts distinct model
+> **families**, and under that rule this hypothesis was stepped back to *awaiting cross-family
+> replication*. As promised here, the outcome is recorded either way: on 2026-08-31 an independent
+> Google-family adjudicator (gemini-3-flash-preview, itself validated on a refute battery) judged
+> the external evidence **strong_support**, and the untouched pre-registered rule confirmed the
+> hypothesis again — now with two model families, zero refuting evidence, invariant audited.
+> **Confirmed** stands; **novel** does not.
 >
 > **What still stands:** the dated falsifiable prediction (§ below; auto-adjudicated 2027-09-20).
 > A restatement of Goodhart's law with a specific cross-frame prediction is a legitimate test —
@@ -30,7 +34,7 @@
 > Internal record: APEX hypothesis #877, novelty_recheck = novelty_overstated (Goodhart's Law).
 
 
-**Status:** CORRECTED 2026-08-31 — not novel (restates Goodhart's Law); confirmation stepped back to *awaiting cross-family replication* · draft v1 (2026-08-25)
+**Status:** CORRECTED 2026-08-31 — not novel (restates Goodhart's Law); confirmed under the two-model-families rule (Anthropic + Google, 2026-08-31 07:20Z) · draft v1 (2026-08-25)
 **Origin:** APEX autonomous research orchestrator (hypothesis #877) · curated by Claude Code
 **Publishing decision:** reserved to the human operator ([S])
 

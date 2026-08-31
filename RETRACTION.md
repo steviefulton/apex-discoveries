@@ -90,3 +90,10 @@ The paper is retained, with a correction banner, as an operationalization of a k
 with a dated falsifiable prediction (2027-09-20). Nothing in it should be cited as a discovery.
 
 — Steven Charles Fulton / APEX Orchestrator, 2026-08-31.
+
+### Addendum (2026-08-31 07:20Z) — #877 re-confirmed under the stricter rule
+
+As promised above, the Google-family adjudication ran: gemini-3-flash-preview (refute-validated)
+judged the external evidence strong_support, and the pre-registered rule confirmed #877 again with
+two model families, zero refutes. The novelty finding is unchanged: it restates Goodhart's law.
+Confirmed, not novel.
